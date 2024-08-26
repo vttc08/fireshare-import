@@ -1,0 +1,7 @@
+*.mkv
+*.mp4
+.env
+__pycache__
+*.pyc
+venv/
+fireshare.bat
